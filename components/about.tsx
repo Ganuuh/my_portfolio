@@ -18,32 +18,31 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+      <div className="mb-3 flex flex-col gap-4">
+        <p className="font-bold text-gray-400">
+          Hello there! 👋 I'm Ganbold, a passionate MERN stack developer with a
+          flair for crafting sleek and efficient web applications. With a strong
+          foundation in MongoDB, Express.js, React.js, and Node.js, I thrive on
+          bringing creative ideas to life through clean, maintainable code.
+        </p>
+        <span className="font-bold text-gray-400">
+          My journey in the world of programming began with a curiosity to
+          understand how things work behind the scenes on the web. This
+          curiosity blossomed into a full-fledged passion, leading me to dive
+          deep into the intricacies of front-end and back-end development.
+          Outside of coding, you'll find me exploring the latest tech trends,
+          experimenting with new frameworks, or simply enjoying a good cup of
+          coffee while brainstorming my next big idea. I thrive in fast-paced
+          environments where innovation is encouraged and challenges are
+          embraced.
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
-      </p>
-
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
-      </p>
+        <p className="font-bold text-gray-400">
+          Whether you're a startup looking to disrupt the industry or an
+          established enterprise seeking to modernize your digital presence, I'm
+          here to help you turn your vision into reality. Let's build something
+          amazing together!
+        </p>
+      </div>
     </motion.section>
   );
 }
