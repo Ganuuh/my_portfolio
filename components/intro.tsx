@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://www.zangia.mn/r/979/3G-LCRXO7J-3Y0RYCV-Z36FZ02-N6.jpg"
+              src="/me.jpeg"
               alt="Ganbold portrait"
               width="192"
               height="192"
