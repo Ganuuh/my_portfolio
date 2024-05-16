@@ -47,7 +47,7 @@ export const projectsData = [
       "Fully functional e-commerce website that includes complex funtionality and smooth workflow.",
     tags: ["React", "Next.js", "MongoDB", "Express", "MUI" , "REST.API"],
     imageUrl: "/projects/ecommerce.png",
-    prodUrl : "https://team2-omae.vercel.app/"
+    prodUrl : "https://ecommerce-mo.vercel.app/"
   },
   {
     title: "Expense tracker",
@@ -55,7 +55,7 @@ export const projectsData = [
       "I created a website that users can track their income and expenses using datas they provided.",
     tags: ["React", "TypeScript", "Next.js", "Mongoose", "Tailwind", "Express.JS"],
     imageUrl: "/projects/expenseTracker.png",
-    prodUrl : "https://expense-tracker-9pdt.vercel.app/",
+    prodUrl : "https://expense-tracker-mo.vercel.app/",
   },
   {
     title: "Food delivery",
@@ -63,7 +63,7 @@ export const projectsData = [
       "A public web app for quick food delivery. It shows various foods for user based on category and sale percent that admin (Restaurant owner) added to their store.",
     tags: ["React", "Next.js", "Tailwind", "MongoDB" , "GraphQL"],
     imageUrl: "/projects/fooddeliver.png",
-    prodUrl : "https://food-delivery-teal-rho.vercel.app/",
+    prodUrl : "https://food-delivery-mo.vercel.app/",
   },
 ] as const;
 
