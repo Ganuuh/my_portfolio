@@ -22,8 +22,9 @@ export default function About() {
         <p className="font-bold text-gray-400">
           Hello there! 👋 I'm Ganbold, a passionate MERN stack developer with a
           flair for crafting sleek and efficient web applications. With a strong
-          foundation in MongoDB, Express.js, React.js, and Node.js, I thrive on
-          bringing creative ideas to life through clean, maintainable code.
+          foundation in MongoDB, Express.js, React.js, Node.js ,Rust, Actix-web,
+          Postgres, Python, FastApi, Flutter(little bit🤏), I thrive on bringing
+          creative ideas to life through clean, maintainable code.
         </p>
         <span className="font-bold text-gray-400">
           My journey in the world of programming began with a curiosity to
